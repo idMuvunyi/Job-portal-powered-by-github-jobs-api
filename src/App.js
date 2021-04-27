@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Jobs from './fetchJobs'
 import { Col, Container, Row } from 'react-bootstrap'
-import Job from './job.js'
+import Job from './job'
 import JobPagination from './jobPagination'
 import SearchForm from './searchForm'
 
